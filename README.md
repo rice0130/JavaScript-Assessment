@@ -1,4 +1,4 @@
-# JavaScript-Assessment
+# JavaScript-Assessment  ( LIU MEI LING) 
 
 ●	What did you like about this project?
 It is fun and interesting to create a game after I finished it. 
